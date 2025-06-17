@@ -1,5 +1,5 @@
-dataset_path: jasonzhango/SPAR-Bench
-# dataset_path: /SSD_DISK/xx/SPAR-Bench
+# dataset_path: jasonzhango/SPAR-Bench
+dataset_path: /mnt/gongjie_NAS2/Benchmarks/SPAR-Bench/data
 dataset_kwargs:
   token: True
   cache_dir: sparbench_cache
