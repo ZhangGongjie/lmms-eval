@@ -1,8 +1,7 @@
-# dataset_path: nyu-visionx/VSI-Bench
-dataset_path: /mnt/gongjie_NAS2/Benchmarks/VSI-Bench
+dataset_path: nyu-visionx/VSI-Bench
 dataset_kwargs:
   token: True
-  cache_dir: vsibench
+  cache_dir: /mnt/gongjie_NAS2/Benchmarks/VSI-Bench/
   video: True
 task: vsibench
 test_split: test
